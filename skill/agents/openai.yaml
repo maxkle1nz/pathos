@@ -1,0 +1,4 @@
+interface:
+  display_name: "PATHOS"
+  short_description: "Transfer session continuity and agent cadence."
+  default_prompt: "Use $pathos to preserve this session's working style, project state, access map, proof standards, known problems, and next-agent prompt."

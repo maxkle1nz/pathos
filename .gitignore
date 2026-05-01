@@ -1,0 +1,15 @@
+node_modules
+dist
+.DS_Store
+.env
+.env.*
+!.env.example
+*.log
+*.tsbuildinfo
+vite.config.js
+vite.config.d.ts
+proof-*.png
+.pathos/
+ingest_roots.json
+DESIGN.md
+MOCKST3R_PROMPTS.md
